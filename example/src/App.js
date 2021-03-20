@@ -4,7 +4,7 @@ import { ReactGithubProfileShowcase } from 'react-github-profile-showcase'
 import 'react-github-profile-showcase/dist/index.css'
 
 const App = () => {
-  return <div><ReactGithubProfileShowcase userName='DarshanGowda0' theme='light' /></div>
+  return <div><ReactGithubProfileShowcase userName='abhishekori' theme='light' /></div>
 }
 
 export default App

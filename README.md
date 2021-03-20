@@ -15,16 +15,20 @@ npm install --save react-github-profile-showcase
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-github-profile-showcase'
+import {ReactGithubProfileShowcase} from 'react-github-profile-showcase'
 import 'react-github-profile-showcase/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <ReactGithubProfileShowcase userName='abhishekori' theme='dark' />
   }
 }
 ```
-
+## Libraries used
+* create-react-library
+* react
+* bootstrap and react-bootstrap
+* lodash
 ## License
 
 MIT © [abhishekori](https://github.com/abhishekori)
