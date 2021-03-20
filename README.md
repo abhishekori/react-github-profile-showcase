@@ -26,7 +26,7 @@ class Example extends Component {
 ```
 
 ## Demo
-https://abhishekori.github.io/react-github-profile-showcase/
+<p>https://abhishekori.github.io/react-github-profile-showcase/</p>
 <img src='./example/public/react-github-profile-eg.png'>
 ## Libraries used
 * create-react-library
